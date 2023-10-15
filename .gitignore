@@ -104,3 +104,9 @@ dist
 
 # TernJS port file
 .tern-port
+/.gitignore
+/config.json
+/index.ts
+config.json
+config.json
+config.json
